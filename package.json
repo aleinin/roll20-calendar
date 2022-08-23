@@ -1,0 +1,19 @@
+{
+  "name": "roll20-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleinin/roll20-calendar.git"
+  },
+  "author": "aleinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleinin/roll20-calendar/issues"
+  },
+  "homepage": "https://github.com/aleinin/roll20-calendar#readme"
+}
